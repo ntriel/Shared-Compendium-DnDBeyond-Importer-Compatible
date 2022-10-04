@@ -1,0 +1,132 @@
+{
+  "name": "My-Shared-Compendia",
+  "title": "My Shared Compendia",
+  "description": "Sharing data across worlds via Compendia as explained by u/solfolango on r/FoundryVTT",
+  "author": "sts",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.5.0",
+  "compatibleCoreVersion": "3.2.1",
+  "packs": [
+    {
+      "name": "actors",
+      "label": "My Actors",
+      "path": "packs/actors.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Actor"
+    },
+    {
+      "name": "backgrounds",
+      "label": "My Backgrounds",
+      "path": "packs/backgrounds.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "classes",
+      "label": "My Classes",
+      "path": "packs/classes.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "classFeatures",
+      "label": "My Class Features",
+      "path": "packs/classFeatures.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "feats",
+      "label": "My Feats",
+      "path": "packs/feats.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "monsters",
+      "label": "My Monsters",
+      "path": "packs/monsters.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Actor"
+    },
+    {
+      "name": "items",
+      "label": "My Items",
+      "path": "packs/items.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "races",
+      "label": "My Races",
+      "path": "packs/races.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "racialTraits",
+      "label": "My Racial Traits",
+      "path": "packs/racialTraits.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "scenes",
+      "label": "My Scenes",
+      "path": "packs/scenes.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Scene"
+    },
+    {
+      "name": "spells",
+      "label": "My Spells",
+      "path": "packs/spells.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "subclasses",
+      "label": "My Sub-Classes",
+      "path": "packs/subclasses.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "JournalEntrys",
+      "label": "My Journal Entrys",
+      "path": "packs/journalentry.db",
+      "module": "My-Shared-Compendia",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "macros",
+      "label": "My Macros",
+      "path": "packs/macro.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Macro"
+    },
+    {
+      "name": "rolltable",
+      "label": "My Roll Tables",
+      "path": "packs/rolltable.db",
+      "module": "My-Shared-Compendia",
+      "entity": "RollTable"
+    },
+    {
+      "name": "playlist",
+      "label": "My Playlist",
+      "path": "packs/playlist.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Playlist"
+    },
+    {
+      "name": "vehicles",
+      "label": "My Vehicles",
+      "path": "packs/vehicles.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Actor"
+    }
+  ],
+
+  "url": "https://github.com/stschoelzel/My-Shared-Compendia"
+}
