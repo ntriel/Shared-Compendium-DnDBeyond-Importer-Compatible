@@ -14,6 +14,7 @@
       "label": "My Actors",
       "path": "packs/actors.db",
       "module": "My-Shared-Compendia",
+      "system": "dnd5e",
       "entity": "Actor"
     },
     {
@@ -21,6 +22,7 @@
       "label": "My Backgrounds",
       "path": "packs/backgrounds.db",
       "module": "My-Shared-Compendia",
+      "system": "dnd5e",
       "entity": "Item"
     },
     {
@@ -28,6 +30,7 @@
       "label": "My Classes",
       "path": "packs/classes.db",
       "module": "My-Shared-Compendia",
+      "system": "dnd5e",
       "entity": "Item"
     },
     {
@@ -35,6 +38,7 @@
       "label": "My Class Features",
       "path": "packs/classFeatures.db",
       "module": "My-Shared-Compendia",
+      "system": "dnd5e",
       "entity": "Item"
     },
     {
@@ -42,6 +46,7 @@
       "label": "My Feats",
       "path": "packs/feats.db",
       "module": "My-Shared-Compendia",
+      "system": "dnd5e",
       "entity": "Item"
     },
     {
@@ -49,6 +54,7 @@
       "label": "My Monsters",
       "path": "packs/monsters.db",
       "module": "My-Shared-Compendia",
+      "system": "dnd5e",
       "entity": "Actor"
     },
     {
@@ -56,6 +62,7 @@
       "label": "My Items",
       "path": "packs/items.db",
       "module": "My-Shared-Compendia",
+      "system": "dnd5e",
       "entity": "Item"
     },
     {
@@ -63,6 +70,7 @@
       "label": "My Races",
       "path": "packs/races.db",
       "module": "My-Shared-Compendia",
+      "system": "dnd5e",
       "entity": "Item"
     },
     {
@@ -70,6 +78,7 @@
       "label": "My Racial Traits",
       "path": "packs/racialTraits.db",
       "module": "My-Shared-Compendia",
+      "system": "dnd5e",
       "entity": "Item"
     },
     {
@@ -77,6 +86,7 @@
       "label": "My Scenes",
       "path": "packs/scenes.db",
       "module": "My-Shared-Compendia",
+      "system": "dnd5e",
       "entity": "Scene"
     },
     {
@@ -84,6 +94,7 @@
       "label": "My Spells",
       "path": "packs/spells.db",
       "module": "My-Shared-Compendia",
+      "system": "dnd5e",
       "entity": "Item"
     },
     {
@@ -91,6 +102,7 @@
       "label": "My Sub-Classes",
       "path": "packs/subclasses.db",
       "module": "My-Shared-Compendia",
+      "system": "dnd5e",
       "entity": "Item"
     },
     {
@@ -98,6 +110,7 @@
       "label": "My Journal Entrys",
       "path": "packs/journalentry.db",
       "module": "My-Shared-Compendia",
+      "system": "dnd5e",
       "entity": "JournalEntry"
     },
     {
@@ -105,6 +118,7 @@
       "label": "My Macros",
       "path": "packs/macro.db",
       "module": "My-Shared-Compendia",
+      "system": "dnd5e",
       "entity": "Macro"
     },
     {
@@ -112,6 +126,7 @@
       "label": "My Roll Tables",
       "path": "packs/rolltable.db",
       "module": "My-Shared-Compendia",
+      "system": "dnd5e",
       "entity": "RollTable"
     },
     {
@@ -119,6 +134,7 @@
       "label": "My Playlist",
       "path": "packs/playlist.db",
       "module": "My-Shared-Compendia",
+      "system": "dnd5e",
       "entity": "Playlist"
     },
     {
@@ -126,6 +142,7 @@
       "label": "My Vehicles",
       "path": "packs/vehicles.db",
       "module": "My-Shared-Compendia",
+      "system": "dnd5e",
       "entity": "Actor"
     }
   ],
