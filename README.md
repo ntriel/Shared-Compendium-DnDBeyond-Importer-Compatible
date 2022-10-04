@@ -1,0 +1,1 @@
+# Shared-Compendium-DnDBeyond-Importer-Compatible
