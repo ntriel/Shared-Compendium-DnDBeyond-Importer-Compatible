@@ -7,7 +7,7 @@
   "minimumCoreVersion": "0.5.0",
   "compatibleCoreVersion": "3.2.1",
   "manifest": "https://raw.githubusercontent.com/ntriel/Shared-Compendium-DnDBeyond-Importer-Compatible/main/module.json",
-  "download": "https://github.com/ntriel/Shared-Compendium-DnDBeyond-Importer-Compatible/releases/download/latest/ddb-importer.zip",
+  "download": "https://github.com/ntriel/Shared-Compendium-DnDBeyond-Importer-Compatible/archive/refs/tags/latest.zip",
   "packs": [
     {
       "name": "actors",
